@@ -1,3 +1,6 @@
+
+from calculate import add_func,sub_func
+
 from calculate import add_func
 
 def test_add_func():
